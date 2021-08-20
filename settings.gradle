@@ -1,0 +1,2 @@
+rootProject.name = "Mision Hispana"
+include ':app'
